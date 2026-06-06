@@ -1,0 +1,18 @@
+{
+    "admin": {
+        "nome": "Administrador",
+        "usuario": "admin",
+        "senha_hash": "9118aa66d6de620a5cdd7b41f5c9a19b$0dac0f7f14ae76550b782e2fcd3532b980399699bcc298d9db7d915bc8366ddc",
+        "perfil": "Administrador",
+        "ativo": true,
+        "criado_em": "05/06/2026 21:28"
+    },
+    "expertnic": {
+        "nome": "Pablo Lemos",
+        "usuario": "expertnic",
+        "senha_hash": "2c0421b04f05c4676c23b8d3833b350c$fb4a4f0fe45c81f76e919a0aa0cd6c84c5b051e381cea3f401e2d116a2c32493",
+        "perfil": "Usuário",
+        "ativo": true,
+        "criado_em": "05/06/2026 23:35"
+    }
+}
